@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-105-american-classics-spring-2006/f6b695917ce1b637e5948ba31aef451a_MIT21H_105s06_sylls11.pdf
+file: /media/courses/21h-105-american-classics-spring-2006/f6b695917ce1b637e5948ba31aef451a_MIT21H_105s06_sylls11.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21H_105s06_sylls11.pdf
 uid: f6b69591-7ce1-b637-e594-8ba31aef451a
