@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 20a78ede-da8c-adc1-42ff-9f2f92af8279
 resourcetype: Document
 title: zgazak_105_brady.pdf
 uid: 26ed7206-4793-49cd-7048-9f43ec52f546

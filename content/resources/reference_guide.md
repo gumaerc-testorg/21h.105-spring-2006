@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cbef8eff-8e01-c68a-9e0d-db8bdb566b05
 resourcetype: Document
 title: reference_guide.pdf
 uid: fc141fa4-1ddf-3bc2-1717-2bfc72c3c973

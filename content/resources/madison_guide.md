@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: cbef8eff-8e01-c68a-9e0d-db8bdb566b05
 resourcetype: Document
 title: madison_guide.pdf
 uid: 9590b87c-ee4e-3418-e5b2-7aa3c92f53c3
