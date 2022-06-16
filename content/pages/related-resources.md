@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the links to Franklin D. Roosevelt speeches.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

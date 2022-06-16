@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the various aspects of the group papers and final
+  paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,8 +21,8 @@ Final Paper
 
 Preparation of a final paper, roughly 10 pages in length, on a notable historical work that was not assigned as required reading. A list of possible topics will be provided, but students can propose others not on the list. However, topics not on the suggested list must be approved by the instructor on or before second session of week 10. The paper is due at the final meeting of the class in week 14.
 
-All papers must be double-spaced, written in clear and correct English, and identify the source and page numbers of all direct quotations. Final papers must include footnotes or endnotes (or, where citations are drawn entirely or predominately from a single text, page citations within the text) and a bibliography. A "Guide" to notes and bibliographies for history papers is available in the [study materials]({{< baseurl >}}/pages/study-materials) section.
+All papers must be double-spaced, written in clear and correct English, and identify the source and page numbers of all direct quotations. Final papers must include footnotes or endnotes (or, where citations are drawn entirely or predominately from a single text, page citations within the text) and a bibliography. A "Guide" to notes and bibliographies for history papers is available in the {{% resource_link cbef8eff-8e01-c68a-9e0d-db8bdb566b05 "study materials" %}} section.
 
-Suggestions on Paper Topics ([PDF]({{< baseurl >}}/resources/paper_topics))
+Suggestions on Paper Topics ({{% resource_link 4ffd7425-3381-9b1a-9387-d69964bfccdc "PDF" %}})
 
-The following document is an examplary final paper written by Zach Gazak. The paper appears courtesy of the author and is used with permission. ([PDF - 1.1 MB]({{< baseurl >}}/resources/zgazak_105_brady))
+The following document is an examplary final paper written by Zach Gazak. The paper appears courtesy of the author and is used with permission. ({{% resource_link 26ed7206-4793-49cd-7048-9f43ec52f546 "PDF - 1.1 MB" %}})

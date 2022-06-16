@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section discusses the various course requirements such as attendance
+  and participation, assignments, oral presentations, and final paper.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,19 +20,19 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Spring 2011, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_105s06_sylls11))
+> Spring 2011, Pauline Maier ({{% resource_link f6b69591-7ce1-b637-e594-8ba31aef451a "PDF" %}})
 > 
-> Spring 2010, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_105s06_sylls10))
+> Spring 2010, Pauline Maier ({{% resource_link a816899b-7b9f-1b72-aacc-01c984134240 "PDF" %}})
 > 
-> Spring 2009, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_105s06_sylls09))
+> Spring 2009, Pauline Maier ({{% resource_link 138c1537-1b32-47aa-abb1-10819cdfd56d "PDF" %}})
 > 
-> Spring 2007, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_105s06_sylls07))
+> Spring 2007, Pauline Maier ({{% resource_link 7ba1f294-cdf2-f714-9ca2-3387b9005a12 "PDF" %}})
 > 
-> Spring 2006, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_105s06_sylls06))
+> Spring 2006, Pauline Maier ({{% resource_link b47be5de-a9aa-8440-c718-6dca555d3070 "PDF" %}})
 > 
-> Spring 2005, Pauline Maier ([PDF]({{< baseurl >}}/resources/mit21h_105s06_sylls05))
+> Spring 2005, Pauline Maier ({{% resource_link ec010868-cfa4-5d7a-8a9a-6c52be05ac59 "PDF" %}})
 > 
-> Fall 2002, Christopher Capozzola ([PDF]({{< baseurl >}}/resources/mit21h_105s06_syllf02))
+> Fall 2002, Christopher Capozzola ({{% resource_link 50b66491-a633-325a-28c5-3304d8eec7e3 "PDF" %}})
 
 Course Requirements
 -------------------
@@ -41,7 +43,7 @@ Regular attendance, completion of readings, and participation in discussions is 
 
 ### Assignments
 
-Students are expected to complete three papers of 4 to 5 pages based on the readings assigned for a specific week. Students will be divided into three groups. Additional details can be found in the [assignments]({{< baseurl >}}/pages/assignments) section.
+Students are expected to complete three papers of 4 to 5 pages based on the readings assigned for a specific week. Students will be divided into three groups. Additional details can be found in the {{% resource_link 20a78ede-da8c-adc1-42ff-9f2f92af8279 "assignments" %}} section.
 
 ### Oral Presentations
 
@@ -49,7 +51,7 @@ On the first session of the week in which students have papers due they each pre
 
 ### Final Paper
 
-Preparation of a final paper, roughly 10 pages in length, on a notable historical work that was not assigned as required reading. Additional details are available in the [assignments]({{< baseurl >}}/pages/assignments) section.
+Preparation of a final paper, roughly 10 pages in length, on a notable historical work that was not assigned as required reading. Additional details are available in the {{% resource_link 20a78ede-da8c-adc1-42ff-9f2f92af8279 "assignments" %}} section.
 
 There will be no final examination.
 
