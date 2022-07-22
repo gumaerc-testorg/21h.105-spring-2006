@@ -4,6 +4,7 @@ description: ''
 file: /courses/21h-105-american-classics-spring-2006/a816899b7b9f1b72aacc01c984134240_MIT21H_105S06_syllS10.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
