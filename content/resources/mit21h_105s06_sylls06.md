@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about American classics.
 file: /courses/21h-105-american-classics-spring-2006/b47be5dea9aa8440c7186dca555d3070_MIT21H_105s06_sylls06.pdf
+file_size: 39980
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
