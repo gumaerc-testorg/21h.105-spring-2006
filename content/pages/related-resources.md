@@ -12,6 +12,6 @@ Franklin D. Roosevelt Speeches
 
 You can hear the Roosevelt speeches via the following Web sites:
 
-Miller Center - {{% resource_link "0129b65e-a280-42b3-8573-1a9bef7111e8" "Scripps Library and Multimedia Archive" %}}
+Miller Center - [Scripps Library and Multimedia Archive](https://millercenter.org/the-presidency/presidential-speeches?field_president_target_id%5B31%5D=31#selected-tags)
 
-{{% resource_link "df570421-2086-4731-9fde-97d4c820af7e" "From Revolution to Reconstruction" %}}
+[From Revolution to Reconstruction](http://odur.let.rug.nl/~usa/P/fr32/)
