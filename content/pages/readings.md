@@ -26,7 +26,7 @@ Readings
 Introduction; the Puritans
 {{< tdclose >}}{{< tdopen >}}
 
-Winthrop, John. "{{% resource_link "df59e7a5-0b18-4d88-9e7f-1f3b3a6fc2d8" "A Modell of Christian Charity" %}}." A Sermon of 1630 (abridged). In Volume I of *The Puritans: A Sourcebook of Their Writings*. Revised edition. Edited by Perry Miller and Thomas H. Johnson. New York, NY: Harper Torchbooks, 1963, pp. 195-199.
+Winthrop, John. "[A Modell of Christian Charity](http://www.winthropsociety.com/doc_charity.php)." A Sermon of 1630 (abridged). In Volume I of *The Puritans: A Sourcebook of Their Writings*. Revised edition. Edited by Perry Miller and Thomas H. Johnson. New York, NY: Harper Torchbooks, 1963, pp. 195-199.
 
 Bradford, William. *Of Plymouth Plantation, 1620-1647*. Edited by Samuel Eliot Morison. New York, NY: Alfred A. Knopf, 1979, esp. chapters 4 and 9, pp. 23-27 and 58-63.
 
@@ -70,7 +70,7 @@ Koch, Adrienne, ed. *Notes of Debates in the Federal Convention of 1787 Reported
 Exploring the West
 {{< tdclose >}}{{< tdopen >}}
 
-\- {{% resource_link "2192902d-ae81-45dd-b32f-9c0c130c2fca" "Letter from President Thomas Jefferson" %}}
+\- [Letter from President Thomas Jefferson](https://www.monticello.org/site/jefferson/jeffersons-instructions-to-meriwether-lewis)
 
 Moulton, Gary E., ed. *The Lewis and Clark Journals*. New York, NY: Basic Books, 2004. ISBN: 9780803280397.
 
@@ -108,7 +108,7 @@ Holzer, Harry, ed. *The Lincoln-Douglas Debates: The First Complete, Unexpurgate
 
 \- Read the Preface, Introduction, descriptions of "the scene" for each of the debates, and the appendix as well as the debates themselves, much of which you can skim. The speeches are long, but include many redundancies since the speakers went over the same issues, sometimes reading passages from previous speeches, again and again. Much of the content was pretty well established after the first three debates, but it's useful to ask who you think came out best in the various debates, and, more important, whether the speakers' positions changed. For example, does Lincoln state his position differently in Ottawa and Freeport, in the northern part of Illinois, settled by migrants from free states, than in Charleston or Alton, settled by people from the South who were in general more pro-slavery? As this edition (do not accept substitutes!) makes clear, the debates took place outside, without microphones, to audiences that often interrupted the speakers. Even their interjections, which Holzer scrupulously includes, are interesting.
 
-Also Lincoln's {{% resource_link "e21962d1-d101-41f0-ba00-4ca3811dabfb" "\"House Divided\" speech" %}} at Springfield, June 16, 1858, when he accepted the Republicans' nomination for senator (you should probably read this before reading the Lincoln-Douglas debates), his {{% resource_link "8d0987e6-58c3-44d0-b25a-1f07f8aec63b" "First Inaugural Address" %}} (1861), the {{% resource_link "3dd8002b-b7a5-44de-b75e-b14c6622afa4" "Gettysburg Address" %}} (1863), and his {{% resource_link "79c66ba7-0de9-42a6-ab0d-4d81a84d06eb" "Second Inaugural Address" %}} (1865), reliable versions of which are available at: {{% resource_link "a11923ce-a4f1-4a06-b747-52f0de141e9a" "Speeches of Abraham Lincoln" %}}.
+Also Lincoln's ["House Divided" speech](http://showcase.netins.net/web/creative/lincoln/speeches/house.htm) at Springfield, June 16, 1858, when he accepted the Republicans' nomination for senator (you should probably read this before reading the Lincoln-Douglas debates), his [First Inaugural Address](http://showcase.netins.net/web/creative/lincoln/speeches/1inaug.htm) (1861), the [Gettysburg Address](http://showcase.netins.net/web/creative/lincoln/speeches/gettysburg.htm) (1863), and his [Second Inaugural Address](http://showcase.netins.net/web/creative/lincoln/speeches/inaug2.htm) (1865), reliable versions of which are available at: [Speeches of Abraham Lincoln](http://showcase.netins.net/web/creative/lincoln/speeches/speech.htm).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -144,11 +144,11 @@ Segregation and Blacks' Dreams of Success
 
 Johnson, James, Booker T. Washington, and William E. B. Dubois. *Three Negro classics*. New York, NY: Avon, 1965 (reprint 1999). ISBN: 9780380015818.
 
-Washington, Booker T. {{% resource_link "d2de609e-5662-4e3b-8b87-8cf0a227bd1d" "*Up From Slavery*" %}}. In *Three Negro Classics,* especially chapters 1-5, 7-8, and 10-14 (pp. 29- 77, 85- 100, 108-57).
+Washington, Booker T. [*Up From Slavery*](http://docsouth.unc.edu/fpn/washington/menu.html). In *Three Negro Classics,* especially chapters 1-5, 7-8, and 10-14 (pp. 29- 77, 85- 100, 108-57).
 
-DuBois, W. E. B. {{% resource_link "5f263a98-ac95-4521-bd0e-f775b875f43a" "*The Souls of Black Folk*" %}}*.* In *Three Negro Classics.* pp. 207-390.
+DuBois, W. E. B. [*The Souls of Black Folk*](http://etext.virginia.edu/toc/modeng/public/DubSoul.html)*.* In *Three Negro Classics.* pp. 207-390.
 
-\---. "{{% resource_link "1bfe5b8e-e3ac-4b92-8583-cbcfdf397fda" "Of the Meaning of Progress" %}}." In *Three Negro Classics*. pp. 240-61.
+\---. "[Of the Meaning of Progress](http://web.archive.org/web/20110116163842/http:/etext.lib.virginia.edu/etcbin/toccer-new2?id=DubSoul.sgm&images=images/modeng&data=/texts/english/modeng/parsed&tag=public&part=4&division=div1)." In *Three Negro Classics*. pp. 240-61.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -164,6 +164,6 @@ Free at Last?
 
 Friedan, Betty. *The Feminine Mystique*. Pennsylvania, U.S.: Laurel, 1984 (reprint 1997), especially chapters 1-4, 10, 12, and 14. ISBN: 9780440324973.
 
-King, Martin Luther, Jr. {{% resource_link "6ace4f91-40c2-49d7-853f-36ef1c40c7af" "\"I have a dream\" speech" %}}, August 28, 1963.
+King, Martin Luther, Jr. ["I have a dream" speech](http://www.americanrhetoric.com/speeches/mlkihaveadream.htm), August 28, 1963.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

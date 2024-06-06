@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains some examples for the prospective paper topics.
 file: /courses/21h-105-american-classics-spring-2006/4ffd742533819b1a9387d69964bfccdc_paper_topics.pdf
+file_size: 19556
 file_type: application/pdf
 learning_resource_types:
 - Assignments
