@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-105-american-classics-spring-2006/a816899b7b9f1b72aacc01c984134240_MIT21H_105S06_syllS10.pdf
+file: /ol-ocw-studio-app/courses/21h-105-american-classics-spring-2006/a816899b7b9f1b72aacc01c984134240_MIT21H_105S06_syllS10.pdf
 file_size: 51594
 file_type: application/pdf
 learning_resource_types: []
