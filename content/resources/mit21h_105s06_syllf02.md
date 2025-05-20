@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about American classics.
-file: /ol-ocw-studio-app/courses/21h-105-american-classics-spring-2006/50b66491a633325a28c53304d8eec7e3_MIT21H_105s06_syllf02.pdf
+file: /courses/21h-105-american-classics-spring-2006/50b66491a633325a28c53304d8eec7e3_MIT21H_105s06_syllf02.pdf
 file_size: 48904
 file_type: application/pdf
 learning_resource_types: []
