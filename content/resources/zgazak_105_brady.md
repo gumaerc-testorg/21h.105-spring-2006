@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a final paper written by Zach Gazak on Mathew Brady
   and the Civil War.
-file: /courses/21h-105-american-classics-spring-2006/26ed7206479349cd70489f43ec52f546_zgazak_105_brady.pdf
+file: /ol-ocw-studio-app/courses/21h-105-american-classics-spring-2006/26ed7206479349cd70489f43ec52f546_zgazak_105_brady.pdf
 file_size: 1113049
 file_type: application/pdf
 learning_resource_types:
