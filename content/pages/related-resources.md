@@ -11,4 +11,4 @@ uid: fca48167-5fef-0fba-e533-0997e34f2be8
 
 You can hear the Roosevelt speeches via the following Web site:
 
-Miller Center - [Scripps Library and Multimedia Archive](https://millercenter.org/the-presidency/presidential-speeches?field_president_target_id%5B31%5D=31#selected-tags)
+Miller Center - {{% resource_link "2974cffb-73a5-4e4d-9315-63d38577f477" "Scripps Library and Multimedia Archive" %}}
